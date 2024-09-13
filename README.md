@@ -1,8 +1,8 @@
 # PyIot-SwitchBot-API1.0
-Pythonで稼働状況を監視。デバイス順次対応予定。
+<h2>Pythonで稼働状況を監視。デバイス順次対応予定。</h2>
 
 
-setup手順
+<h3>setup手順</h3>
 
 1.APITOKENをアプリから確認し、config/config.pyに記述。
 
