@@ -2,8 +2,11 @@
 Pythonで稼働状況を監視。デバイス順次対応予定。
 
 setup手順
+
 1.APITOKENをアプリから確認し、config/config.pyに記述。
+
 2.setup.batを実行。
+
 3.各デバイスのDeviceIDをconfig/config.pyに記述。
 
 main.pyを実行。
