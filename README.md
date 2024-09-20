@@ -6,7 +6,7 @@
 
 1.APITOKENをアプリから確認し、config/config.pyに記述。
 
-2.setup.batを実行。
+2.setup.exeを実行。
 
 3.各デバイスのDeviceIDをconfig/config.pyに記述。
 
